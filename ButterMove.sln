@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButterMove", "ButterMove\ButterMove.csproj", "{ADFCD655-1171-4C2A-9B25-C786A16C761A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButterMoveTest", "ButterMoveTest\ButterMoveTest.csproj", "{44E34E4A-BA2A-4C21-A67C-D08C66B96542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFCD655-1171-4C2A-9B25-C786A16C761A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFCD655-1171-4C2A-9B25-C786A16C761A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFCD655-1171-4C2A-9B25-C786A16C761A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFCD655-1171-4C2A-9B25-C786A16C761A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E34E4A-BA2A-4C21-A67C-D08C66B96542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E34E4A-BA2A-4C21-A67C-D08C66B96542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E34E4A-BA2A-4C21-A67C-D08C66B96542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E34E4A-BA2A-4C21-A67C-D08C66B96542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E848825-0E2C-4377-8D24-336CD6E89515}
+	EndGlobalSection
+EndGlobal
